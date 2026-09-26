@@ -3,6 +3,6 @@ SAT score predictive model for Zootopia High School using linear regression, CRI
 
 ## Project Overview
 * **Course:** CSCI 362 - Database Management Systems / Data Mining
-* **Client Scenario:** Zootopia High School
+* **Scenario:** Zootopia High School
 * **Framework:** CRISP-DM (Business Understanding, Data Preparation, Modeling, Evaluation, Deployment)
 * **Techniques:** Data Cleaning, LASSO Feature Selection, Linear Regression, Train/Test Evaluation
